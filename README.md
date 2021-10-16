@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center"  height="140em" width="350" alt="Yago1293" src="https://cdn.discordapp.com/attachments/857752764577742848/885543452073418822/giphyhlwrd.gif">
+    <img align="center"  height="140em" width="350" alt="Yago1293" src="https://i.pinimg.com/originals/b7/43/52/b743527a755c9e382579da4eb63c03d1.gif">
     </div>
     <br>
     ✨Yago Inacio Oliveira
