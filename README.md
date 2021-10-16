@@ -4,7 +4,7 @@
     <br>
     ✨Yago Inacio Oliveira
     <br>
-    🌱 Web developer
+    🌱 front-end developer
     <br>
     ⚡18y
     <br>
