@@ -47,5 +47,6 @@
     
 </div>
  <br>
-    
-  
+  <br>
+    <div>
+    <img align="center" width="150%" src="https://raw.githubusercontent.com/vlarysc/vlarysc/f2045a28a8eac6f85ce4ff809312cdeaa0c3eaf3/assets/marquee.svg" alt="fullstack developer animated image"/>
