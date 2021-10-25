@@ -8,7 +8,7 @@
     <br>
     ⚡18y
     <br>
-    👨🏿‍💻 CSS, JavaScript  (Aprendendo JQuery)
+    👨🏿‍💻 CSS, JavaScript  e Apredendo (C e Angular )
     <br>
     🍭 My Portfolio
     <br>
