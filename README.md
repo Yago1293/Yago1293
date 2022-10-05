@@ -6,7 +6,7 @@
     <br>
     🌱 front-end developer
     <br>
-    ⚡18y
+    ⚡19y
     <br>
     👨🏿‍💻 CSS, JavaScript  e Apredendo (C e Angular )
     <br>
